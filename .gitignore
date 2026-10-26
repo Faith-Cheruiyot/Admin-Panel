@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+humor-admin/node_modules/
+humor-admin/dist/
+humor-admin/.vinext/
+humor-admin/.wrangler/
+humor-admin/.sites-runtime/
+humor-admin/outputs/
+humor-admin/*.tsbuildinfo
+humor-admin/.env*
